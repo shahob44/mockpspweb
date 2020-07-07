@@ -1,2 +1,2 @@
-# test2
-Created a repository from command line
+# mockpspweb
+Practice for pushing, pulling, merging, etc. for the psp website.
