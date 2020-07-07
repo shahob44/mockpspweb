@@ -1,3 +1,8 @@
 This should be pulled from test2.
+<<<<<<< HEAD
 [From terminal]: Success!
 
+=======
+
+Edit 1: This is supposed to be pulled.
+>>>>>>> b0bd32adcabe9caea8a97e204079bf2da4b6ca71
